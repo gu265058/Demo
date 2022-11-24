@@ -1,3 +1,4 @@
 learning the git from scratch
-hellow
-
+hellowthis is new commit the the 
+line 
+hellow world
