@@ -1,3 +1,4 @@
 learning the git from scratch
 hellow
 this is an exampleasadsadsada of merge conflict
+
